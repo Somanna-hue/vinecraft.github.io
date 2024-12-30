@@ -1,5 +1,3 @@
-<!DOCTYPE html>
-<html lang="en">
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
@@ -121,21 +119,18 @@
         <h2>Our Kits</h2>
         <div class="product-grid">
             <div class="product-card">
-                <img src="basic-kit.jpg" alt="Basic Kit">
                 <h3>Basic Kit</h3>
                 <p>Perfect for first-time winemakers.</p>
                 <p class="price">₹200</p>
                 <a href="#" class="btn">Buy Now</a>
             </div>
             <div class="product-card">
-                <img src="premium-kit.jpg" alt="Premium Kit">
                 <h3>Premium Kit</h3>
                 <p>Enhanced experience with premium ingredients.</p>
                 <p class="price">₹600</p>
                 <a href="#" class="btn">Buy Now</a>
             </div>
             <div class="product-card">
-                <img src="luxury-kit.jpg" alt="Luxury Kit">
                 <h3>Luxury Kit</h3>
                 <p>The ultimate winemaking experience.</p>
                 <p class="price">₹1200</p>
@@ -145,7 +140,7 @@
     </section>
 
     <footer>
-        <p>&copy; 2024 Vinecraft. All Rights Reserved.</p>
+        <p>&copy; 2024 Vinecraft. WhatsApp 9692136350.</p>
     </footer>
 </body>
 </html>
