@@ -99,8 +99,8 @@
 </head>
 <body>
     <header>
-        <div class="logo">Vinecraft</div>
-        </nav>
+        <div class="logo">Vinecraft DIY Wine Kits</div>
+        <Contact: 9692136350>
     </header>
 
     <section class="hero" id="home">
@@ -137,4 +137,3 @@
         <p>&copy; 2024 Vinecraft. WhatsApp 9692136350.</p>
     </footer>
 </body>
-</html>
