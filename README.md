@@ -116,19 +116,19 @@
                 <h3>Basic Kit</h3>
                 <p>Perfect for first-time winemakers.</p>
                 <p class="price">₹200</p>
-                <a href="#" class="btn">Buy Now</a>
+                <a href="#" class="btn">WhatsApp Now</a>
             </div>
             <div class="product-card">
                 <h3>Premium Kit</h3>
                 <p>Enhanced experience with premium ingredients.</p>
                 <p class="price">₹600</p>
-                <a href="#" class="btn">Buy Now</a>
+                <a href="#" class="btn">WhatsApp Now</a>
             </div>
             <div class="product-card">
                 <h3>Luxury Kit</h3>
                 <p>The ultimate winemaking experience.</p>
                 <p class="price">₹1200</p>
-                <a href="#" class="btn">Buy Now</a>
+                <a href="#" class="btn">WhatsApp Now</a>
             </div>
         </div>
     </section>
